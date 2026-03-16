@@ -33,7 +33,7 @@ Command| Description
 
 Example:
 
-git clone https://github.com/yourusername/music-bot
+git clone https://discord.gg/aven
 cd music-bot
 npm install
 node index.js
